@@ -1,10 +1,7 @@
 #openjdk:24-windowsservercore-ltsc2022
 #opensuse
 #ubuntu-debootstrap:15.10
-notary:server-0.7.0
-notary:signer-0.7.0
-lightstreamer
-ibm-semeru-runtimes
+ibm-semeru-runtimes:open-8u422-b05-jdk
 postfixadmin
 genonetwork
 nuxeo
