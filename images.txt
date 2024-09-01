@@ -4,8 +4,7 @@
 #docker-dev:1.9.1
 #ubuntu-upstart
 #glassfish
-crux
-clefos
+#clefos
 alt
 euleros
 jobber
