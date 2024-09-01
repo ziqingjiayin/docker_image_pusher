@@ -1,11 +1,4 @@
-logstash:8.15.0
-couchdb
-percona:ps-8.0.36-28
-composer
-eclipse-temurin:22.0.2_9-jdk
-chronograf
-jenkins:2.60.3
-openjdk:24-windowsservercore-ltsc2022
+#openjdk:24-windowsservercore-ltsc2022
 teamspeak
 matomo
 sentry
