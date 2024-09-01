@@ -1,6 +1,6 @@
 #openjdk:24-windowsservercore-ltsc2022
 #opensuse
-ubuntu-debootstrap
+ubuntu-debootstrap:15.10
 irssi
 haskell
 almalinux
