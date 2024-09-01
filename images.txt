@@ -3,10 +3,7 @@
 #ubuntu-debootstrap:15.10
 #docker-dev:1.9.1
 #ubuntu-upstart
-mageia
-hola-mundo
-known
-glassfish
+#glassfish
 crux
 clefos
 alt
