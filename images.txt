@@ -1,7 +1,7 @@
 #openjdk:24-windowsservercore-ltsc2022
-oracleliunx:9
-oracleliunx:8.10
-oracleliunx:7.9
+oraclelinux:9
+oraclelinux:8.10
+oraclelinux:7.9
 rockylinux:9.3
 rockylinux:8.9
 xwiki
