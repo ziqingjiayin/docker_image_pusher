@@ -5,11 +5,6 @@
 - 支持最大40GB的大型镜像<br>
 - 使用阿里云的官方线路，速度快<br>
 
-视频教程：https://www.bilibili.com/video/BV1Zn4y19743/
-
-作者：**[技术爬爬虾](https://github.com/tech-shrimp/me)**<br>
-B站，抖音，Youtube全网同名，转载请注明作者<br>
-
 ## 使用方式
 
 
@@ -78,3 +73,10 @@ xiaoyaliu/alist
 修改/.github/workflows/docker.yaml文件
 添加 schedule即可定时执行(此处cron使用UTC时区)
 ![](doc/定时执行.png)
+
+### 使用指导
+支持私库
+k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+xhofe/alist:latest
+支持指定架构
+--platform=linux/arm64 xiaoyaliu/alist
