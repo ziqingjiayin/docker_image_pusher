@@ -2,13 +2,7 @@
 #opensuse
 #ubuntu-debootstrap:15.10
 #docker-dev:1.9.1
-rakudo-star
-express-gateway
-emqx
-dart
-kaazing-gateway
-silverpeas
-ubuntu-upstart
+#ubuntu-upstart
 mageia
 hola-mundo
 known
