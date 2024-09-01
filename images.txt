@@ -1,7 +1,7 @@
 vault:1.13.3
 bash:devel-alpine3.20
 adminer:latest
-ghost:ghost
+ghost:latest
 solr:9.5.0
 kong:latest
 zookeeper
