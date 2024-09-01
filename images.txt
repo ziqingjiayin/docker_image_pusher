@@ -5,16 +5,6 @@
 #ubuntu-upstart
 #glassfish
 #clefos
-alt
-euleros
-jobber
-sourcemage
-sl
-unit
-hitch
-hipache
-spark
-satosa
-scratch
+#scratch
 api-firewall
 liquibase
