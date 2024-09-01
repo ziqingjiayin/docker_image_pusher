@@ -1,9 +1,7 @@
 #openjdk:24-windowsservercore-ltsc2022
 #opensuse
 #ubuntu-debootstrap:15.10
-ibm-semeru-runtimes:open-8u422-b05-jdk
-postfixadmin
-genonetwork
+geonetwork
 nuxeo
 hello-seattle
 friendica
