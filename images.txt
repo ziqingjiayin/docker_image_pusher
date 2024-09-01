@@ -1,10 +1,6 @@
-#consul:latest
-#golong:latest
-sonarqube
-haproxy
-influxdb
-nextcloud
-elasticsearch
+consul:1.15.4
+golang:latest
+elasticsearch:8.15.0
 tomcat
 maven
 caddy
