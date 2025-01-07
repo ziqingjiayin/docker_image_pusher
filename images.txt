@@ -16,4 +16,5 @@
 #jumpserver/chen:v4.5.0-ce
 #jumpserver/web:v4.5.0-ce
 #jumpserver/jms_all:v4.5.0
-grafana/grafana-enterprise:11.4.0
+#grafana/grafana-enterprise:11.4.0
+guyongquan/webhook-adapter:latest
