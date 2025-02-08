@@ -18,4 +18,5 @@
 #jumpserver/jms_all:v4.5.0
 #grafana/grafana-enterprise:11.4.0
 #guyongquan/webhook-adapter:latest
-wnameless/oracle-xe-11g-r2:18.04-apex
+#wnameless/oracle-xe-11g-r2:18.04-apex
+zilliz/attu:latest
