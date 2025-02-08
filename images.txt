@@ -19,4 +19,5 @@
 #grafana/grafana-enterprise:11.4.0
 #guyongquan/webhook-adapter:latest
 #wnameless/oracle-xe-11g-r2:18.04-apex
-zilliz/attu:latest
+#zilliz/attu:latest
+minio/minio:RELEASE.2023-03-20T20-16-18Z
