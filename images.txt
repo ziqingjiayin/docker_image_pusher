@@ -21,5 +21,8 @@
 #wnameless/oracle-xe-11g-r2:18.04-apex
 #zilliz/attu:latest
 #minio/minio:RELEASE.2023-03-20T20-16-18Z
-quay.io/coreos/etcd:v3.5.16
-milvusdb/milvus:v2.5.4
+#quay.io/coreos/etcd:v3.5.16
+#milvusdb/milvus:v2.5.4
+guiji2025/fish-speech-ziming
+guiji2025/fun-asr
+guiji2025/heygem.ai
