@@ -56,6 +56,5 @@
 #docker.elastic.co/kibana/kibana:8.14.3
 #downloads.unstructured.io/unstructured-io/unstructured-api:latest
 
-langgenius/dify-api:0.15.7
-langgenius/dify-web:0.15.7
-pingcap/tidb:v8.4.0
+langgenius/dify-api:1.2.0
+langgenius/dify-web:1.2.0
