@@ -26,6 +26,7 @@
 #guiji2025/fun-asr
 #guiji2025/heygem.ai
 
-#dify
-langgenius/dify-api:1.2.0
-langgenius/dify-web:1.2.0
+pytorch/pytorch:2.7.0-cuda12.8-cudnn9-runtime
+pytorch/pytorch:2.7.0-cuda12.8-cudnn9-devel
+pytorch/pytorch:2.7.0-cuda12.6-cudnn9-runtime
+pytorch/pytorch:2.7.0-cuda12.6-cudnn9-devel
