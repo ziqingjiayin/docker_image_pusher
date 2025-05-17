@@ -4,7 +4,8 @@
 #guiji2025/fish-speech-5090
 #guiji2025/heygem.ai-5090
 
-nvcr.io/nvidia/pytorch:25.01-py3
-nvcr.io/nvidia/pytorch:25.02-py3
-nvcr.io/nvidia/pytorch:25.03-py3
-nvcr.io/nvidia/pytorch:25.04-py3
+#nvcr.io/nvidia/pytorch:25.01-py3
+#nvcr.io/nvidia/pytorch:25.02-py3
+#nvcr.io/nvidia/pytorch:25.03-py3
+#nvcr.io/nvidia/pytorch:25.04-py3
+nvcr.io/nvidia/pytorch:25.05-py3
