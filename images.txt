@@ -17,4 +17,7 @@
 #pytorch/pytorch:2.7.0-cuda12.8-cudnn9-runtime
 #pytorch/pytorch:2.7.0-cuda12.8-cudnn9-devel
 #nginx:1.28.0
-ghcr.io/sillytavern/sillytavern:latest
+#ghcr.io/sillytavern/sillytavern:latest
+redis:8.0.2
+apache/rocketmq:5.3.3
+apache/rocketmq:4.9.7
