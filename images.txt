@@ -18,5 +18,6 @@
 #pytorch/pytorch:2.7.0-cuda12.8-cudnn9-devel
 #nginx:1.28.0
 #ghcr.io/sillytavern/sillytavern:latest
---platform linux/arm64/v8 redis:8.0.2
---platform linux/arm64 apache/rocketmq:5.3.3
+#--platform linux/arm64/v8 redis:8.0.2
+#--platform linux/arm64 apache/rocketmq:5.3.3
+greatsql/greatsql_build:8.0.32-27
