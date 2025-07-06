@@ -22,16 +22,4 @@
 #--platform linux/arm64 apache/rocketmq:5.3.3
 #greatsql/greatsql_build:8.0.32-27
 #greatsql/greatsql_build
-openeuler/openeuler:20.03-lts-sp1
-openeuler/openeuler:20.03-lts-sp2
-openeuler/openeuler:20.03-lts-sp3
-openeuler/openeuler:20.03-lts-sp4
-openeuler/openeuler:22.03-lts-sp1
-openeuler/openeuler:22.03-lts-sp2
-openeuler/openeuler:22.03-lts-sp3
-openeuler/openeuler:22.03-lts-sp4
-openeuler/openeuler:24.03-lts-sp1
-openeuler/openeuler:24.03-lts-sp2
-openeuler/openeuler:20.03-lts
-openeuler/openeuler:22.03-lts
-openeuler/openeuler:24.03-lts
+docker.cnb.cool/mumuopenk/comfyui:v0.3.27
