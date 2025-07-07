@@ -22,4 +22,4 @@
 #--platform linux/arm64 apache/rocketmq:5.3.3
 #greatsql/greatsql_build:8.0.32-27
 #greatsql/greatsql_build
-docker.cnb.cool/mumuopenk/comfyui:v0.3.27
+nvcr.io/nvidia/pytorch:25.05-py3
