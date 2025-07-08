@@ -9,6 +9,7 @@
 #nvcr.io/nvidia/pytorch:25.03-py3
 #nvcr.io/nvidia/pytorch:25.04-py3
 #nvcr.io/nvidia/pytorch:25.05-py3
+#nvcr.io/nvidia/pytorch:25.06-py3
 
 #pytorch/pytorch:2.7.0-cuda11.8-cudnn9-runtime
 #pytorch/pytorch:2.7.0-cuda11.8-cudnn9-devel
@@ -23,4 +24,4 @@
 #greatsql/greatsql_build:8.0.32-27
 #greatsql/greatsql_build
 
-nvcr.io/nvidia/pytorch:25.06-py3
+nginx
