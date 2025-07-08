@@ -24,4 +24,5 @@
 #greatsql/greatsql_build:8.0.32-27
 #greatsql/greatsql_build
 
-nginx
+kalilinux/kali-rolling
+kalilinux/kali-last-release
