@@ -66,5 +66,6 @@
 #ccr.ccs.tencentyun.com/yfgaia/dify-plus-admin-server:1.2.0
 #ccr.ccs.tencentyun.com/yfgaia/dify-plus-sandbox-full:0.0.7
 #matrixorigin/matrixone:2.1.1
-ccr.ccs.tencentyun.com/huyuefeitu/comfyui-image:latest
-ccr.ccs.tencentyun.com/huyuefeitool/comfyui-video:latest
+#ccr.ccs.tencentyun.com/huyuefeitu/comfyui-image:latest
+#ccr.ccs.tencentyun.com/huyuefeitool/comfyui-video:latest
+docker.cnb.cool/catpalyaigc/lora-scripts/dockerfile-caches
