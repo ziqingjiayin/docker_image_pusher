@@ -68,4 +68,4 @@
 #matrixorigin/matrixone:2.1.1
 #ccr.ccs.tencentyun.com/huyuefeitu/comfyui-image:latest
 #ccr.ccs.tencentyun.com/huyuefeitool/comfyui-video:latest
-docker.cnb.cool/catpalyaigc/lora-scripts/dockerfile-caches
+nvidia/cuda:12.8.0-base-ubuntu24.04
