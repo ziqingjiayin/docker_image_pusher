@@ -26,7 +26,6 @@
 
 #kalilinux/kali-rolling
 #kalilinux/kali-last-release
-#docker.n8n.io/n8nio/n8n
 
 #ccr.ccs.tencentyun.com/yfgaia/dify-plus-api:1.2.0
 #ccr.ccs.tencentyun.com/yfgaia/dify-plus-web:1.2.0
@@ -68,4 +67,6 @@
 #matrixorigin/matrixone:2.1.1
 #ccr.ccs.tencentyun.com/huyuefeitu/comfyui-image:latest
 #ccr.ccs.tencentyun.com/huyuefeitool/comfyui-video:latest
-nvidia/cuda:12.8.0-base-ubuntu24.04
+#nvidia/cuda:12.8.0-base-ubuntu24.04
+n8nio/n8n:1.102.4
+#docker.n8n.io/n8nio/n8n
