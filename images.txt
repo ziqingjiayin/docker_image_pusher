@@ -10,6 +10,7 @@
 #nvcr.io/nvidia/pytorch:25.04-py3
 #nvcr.io/nvidia/pytorch:25.05-py3
 #nvcr.io/nvidia/pytorch:25.06-py3
+nvcr.io/nvidia/pytorch:25.07-py3
 
 #pytorch/pytorch:2.7.0-cuda11.8-cudnn9-runtime
 #pytorch/pytorch:2.7.0-cuda11.8-cudnn9-devel
@@ -70,4 +71,4 @@
 #nvidia/cuda:12.8.0-base-ubuntu24.04
 #n8nio/n8n:1.102.4
 #docker.n8n.io/n8nio/n8n
---platform linux/arm64/v8 nginx:1.29.0
+#--platform linux/arm64/v8 nginx:1.29.0
