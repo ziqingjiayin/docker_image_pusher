@@ -114,27 +114,11 @@
 #ccr.ccs.tencentyun.com/huyuefeitu/comfyui-image:latest
 #ccr.ccs.tencentyun.com/huyuefeitool/comfyui-video:latest
 
-n8nio/n8n:1.106.0
-n8nio/n8n:1.105.2
-n8nio/n8n:1.105.1
-n8nio/n8n:1.105.0
-n8nio/n8n:1.104.2
-n8nio/n8n:1.104.1
-n8nio/n8n:1.104.0
-n8nio/n8n:1.103.2
-n8nio/n8n:1.103.1
-n8nio/n8n:1.103.0
-n8nio/n8n:1.102.4
-n8nio/n8n:1.102.3
-n8nio/n8n:1.102.2
-n8nio/n8n:1.102.1
-n8nio/n8n:1.102.0
-n8nio/n8n:1.101.3
-n8nio/n8n:1.101.2
-n8nio/n8n:1.101.1
-n8nio/n8n:1.101.0
-n8nio/n8n:1.100.1
-n8nio/n8n:1.100.0
+#n8nio/n8n:1.106.0
 
 #docker.n8n.io/n8nio/n8n
 #--platform linux/arm64/v8 nginx:1.29.0
+
+ubuntu:22.04
+ubuntu:24.04
+ubuntu:20.04
