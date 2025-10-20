@@ -121,4 +121,4 @@
 #--platform linux/arm64/v8 emqx:5.8.3
 #--platform linux/arm64 emqx/emqx:5.8.3
 nacos/nacos-server:v3.1.0
-nacos/nacos-server:v2.5.0
+nacos/nacos-server:v2.5.1
