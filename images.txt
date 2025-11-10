@@ -117,10 +117,9 @@
 #n8nio/n8n:1.106.0
 
 #docker.n8n.io/n8nio/n8n
-#--platform linux/arm64/v8 nginx:1.29.0
+--platform linux/arm64/v8 nginx:1.29.3
 #--platform linux/arm64/v8 emqx:5.8.3
 #--platform linux/arm64 emqx/emqx:5.8.3
 #nacos/nacos-server:v3.1.0
 #nacos/nacos-server:v2.5.1
 #captainji/jupyterlab:3.0.5
-quay.io/jupyter/base-notebook
