@@ -46,6 +46,42 @@
 #nvidia/cuda:12.9.0-runtime-ubuntu20.04
 #nvidia/cuda:12.9.0-base-ubuntu20.04
 
+nvidia/cuda:13.0.0-base-ubuntu24.04
+nvidia/cuda:13.0.0-devel-ubuntu24.04
+nvidia/cuda:13.0.0-runtime-ubuntu24.04
+nvidia/cuda:13.0.0-devel-ubuntu22.04
+nvidia/cuda:13.0.0-runtime-ubuntu22.04
+nvidia/cuda:13.0.0-base-ubuntu22.04
+nvidia/cuda:13.0.0-cudnn-devel-ubuntu24.04
+nvidia/cuda:13.0.0-cudnn-runtime-ubuntu24.04
+nvidia/cuda:13.0.0-cudnn-devel-ubuntu22.04
+nvidia/cuda:13.0.0-cudnn-runtime-ubuntu22.04
+
+nvidia/cuda:13.0.0-tensorrt-devel-ubuntu24.04
+nvidia/cuda:13.0.0-tensorrt-runtime-ubuntu24.04
+
+nvidia/cuda:13.0.1-base-ubuntu24.04
+nvidia/cuda:13.0.1-devel-ubuntu24.04
+nvidia/cuda:13.0.1-runtime-ubuntu24.04
+nvidia/cuda:13.0.1-devel-ubuntu22.04
+nvidia/cuda:13.0.1-runtime-ubuntu22.04
+nvidia/cuda:13.0.1-base-ubuntu22.04
+nvidia/cuda:13.0.1-cudnn-devel-ubuntu24.04
+nvidia/cuda:13.0.1-cudnn-runtime-ubuntu24.04
+nvidia/cuda:13.0.1-cudnn-devel-ubuntu22.04
+nvidia/cuda:13.0.1-cudnn-runtime-ubuntu22.04
+
+nvidia/cuda:13.0.2-base-ubuntu24.04
+nvidia/cuda:13.0.2-devel-ubuntu24.04
+nvidia/cuda:13.0.2-runtime-ubuntu24.04
+nvidia/cuda:13.0.2-devel-ubuntu22.04
+nvidia/cuda:13.0.2-runtime-ubuntu22.04
+nvidia/cuda:13.0.2-base-ubuntu22.04
+nvidia/cuda:13.0.2-cudnn-devel-ubuntu24.04
+nvidia/cuda:13.0.2-cudnn-runtime-ubuntu24.04
+nvidia/cuda:13.0.2-cudnn-devel-ubuntu22.04
+nvidia/cuda:13.0.2-cudnn-runtime-ubuntu22.04
+
 #nvidia/cuda:12.9.1-cudnn-devel-ubuntu24.04
 #nvidia/cuda:12.9.1-cudnn-runtime-ubuntu24.04
 #nvidia/cuda:12.9.1-cudnn-devel-ubuntu22.04
@@ -117,7 +153,7 @@
 #n8nio/n8n:1.106.0
 
 #docker.n8n.io/n8nio/n8n
---platform linux/arm64/v8 nginx:1.29.3
+#--platform linux/arm64/v8 nginx:1.29.3
 #--platform linux/arm64/v8 emqx:5.8.3
 #--platform linux/arm64 emqx/emqx:5.8.3
 #nacos/nacos-server:v3.1.0
